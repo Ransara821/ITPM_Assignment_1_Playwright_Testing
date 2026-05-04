@@ -10,7 +10,7 @@ Automated Testing for Singlish to Sinhala Transliteration System
 IT3040_Assignment_1/
 
 - test_automation.py           → Playwright automation script  
-- IT - Test cases.xlsx → Excel file with test cases & results  
+- Test cases.xlsx → Excel file with test cases & results  
 - requirements.txt             → Python dependencies  
 - README.md                    → Project documentation  
 - venv/ (optional)             → Virtual environment (not required)
